@@ -33,3 +33,5 @@ A fast-paced HTML5 Canvas arcade game where players control a basket to catch fa
 ---
 
 ## 📂 Project Structure
+
+│── index.html # Main game file (HTML + CSS + JS)
