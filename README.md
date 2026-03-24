@@ -35,3 +35,28 @@ A fast-paced HTML5 Canvas arcade game where players control a basket to catch fa
 ## 📂 Project Structure
 
 │── index.html # Main game file (HTML + CSS + JS)
+
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Canvas API  
+
+---
+
+## 📸 Preview
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2aaacb11-67f1-44e0-b56c-ffb39a744b8b" />
+
+
+---
+
+## ⚡ Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/StarCatch.git
