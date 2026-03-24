@@ -60,3 +60,7 @@ A fast-paced HTML5 Canvas arcade game where players control a basket to catch fa
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/StarCatch.git
+
+cd StarCatch
+
+Open index.html in your browser
