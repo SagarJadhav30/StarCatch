@@ -10,7 +10,7 @@ A fast-paced HTML5 Canvas arcade game where players control a basket to catch fa
 ## 🚀 Features
 
 - ⭐ Smooth canvas-based gameplay  
-- 🎮 Keyboard controls (Arrow keys / A-D)  
+- 🎮 Keyboard controls (Arrow keys / A-D) 
 - ⏸️ Pause & Resume functionality  
 - 🔁 Restart system  
 - ⏱️ Countdown timer (60 seconds)  
