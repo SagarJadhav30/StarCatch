@@ -14,7 +14,7 @@ A fast-paced HTML5 Canvas arcade game where players control a basket to catch fa
 - ⏸️ Pause & Resume functionality  
 - 🔁 Restart system  
 - ⏱️ Countdown timer (60 seconds)  
-- 📈 Increasing difficulty over time  
+- 📈 Increasing difficulty over time 
 - 🏆 High score saved using LocalStorage  
 - 🎨 Clean and responsive UI design  
 
